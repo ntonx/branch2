@@ -1,17 +1,1 @@
-hola rama3
-te veo desde rama1
-esoty modificando
-soy la rama 4
-hola
-que haces
-##########
-----------
-&&&&&&&&&
-(9)
-(7)
-(69)
-nuevos detos de la rama 4 para agregar al
-archivo creado por 
-la rama 3
-pero haber que sucede
-
+hola jhony
