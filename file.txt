@@ -1,5 +1,3 @@
 <?php 
 	echo "HI JHONX";
-	echo "rama1";
-	echo "himaster";
 ?>
