@@ -1,8 +1,5 @@
 <?php 
-<<<<<<< HEAD
-	echo "master edited";
-=======
-	echo "Hello in from branch1";
+
 	echo "HI JHONX";
->>>>>>> rama1
+
 ?>
